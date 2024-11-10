@@ -1,7 +1,5 @@
 # Customer-Churn-Prediction
 
-# Telco Customer Churn Prediction
-
 ## Introduction
 
 This project aims to predict customer churn using various machine learning techniques. The Telco Customer Churn dataset was used for this purpose. The project involves data exploration, visualization, feature engineering, model training, and evaluation to achieve accurate churn prediction.
@@ -28,7 +26,7 @@ The Telco Customer Churn dataset, obtained from Kaggle, contains information abo
      - Churn rate by tenure using line plots.
 
 3. **Feature Engineering**:
-   - Converting data types if necessary.
+   - Converting data types.
    - Scaling numerical features using standardization or normalization.
    - Potentially creating new features based on existing ones.
 
