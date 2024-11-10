@@ -64,10 +64,9 @@ The Telco Customer Churn dataset, obtained from Kaggle, contains information abo
     This line plot or scatter plot shows the relationship between churn and customer tenure. It helps visualize how churn rates change over time as customers stay longer with the 
     company.
 
-
     ### Monthly Charges Distribution by Churn
 
-    ![Monthly Charges Distribution by Churn](images/monthly_charges_distribution_by_churn.png)
+    ![Monthly Charges Distribution by Churn](images/monthly-charges-distribution-by-churn.png)
 
     This histogram or density plot shows the distribution of monthly charges for both churned and retained customers. It helps identify potential patterns in churn based on monthly 
     charges.
