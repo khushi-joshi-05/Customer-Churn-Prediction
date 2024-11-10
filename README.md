@@ -16,7 +16,7 @@ The Telco Customer Churn dataset, obtained from Kaggle, contains information abo
    - Handling missing values by imputation or removal.
    - Performing descriptive statistics to understand data distribution.
 
-2. ## Data Visualization
+2. ** Data Visualization**
 
 This section presents various visualizations to gain insights into the data:
 
@@ -68,6 +68,7 @@ This line plot or scatter plot shows the relationship between churn and customer
 ![Monthly Charges Distribution by Churn](images/monthly_charges_distribution_by_churn.png)
 
 This histogram or density plot shows the distribution of monthly charges for both churned and retained customers. It helps identify potential patterns in churn based on monthly charges.
+
 3. **Feature Engineering**:
    - Converting data types.
    - Scaling numerical features using standardization or normalization.
