@@ -16,15 +16,58 @@ The Telco Customer Churn dataset, obtained from Kaggle, contains information abo
    - Handling missing values by imputation or removal.
    - Performing descriptive statistics to understand data distribution.
 
-2. **Data Visualization**:
-   - Creating visualizations to gain insights into the data:
-     - Churn rate using bar charts.
-     - Churn by tenure using box plots or violin plots.
-     - Correlation heatmaps to identify relationships between numerical features.
-     - Churn by service type using stacked bar charts.
-     - Distribution of monthly charges by churn using histograms.
-     - Churn rate by tenure using line plots.
+2. ## Data Visualization
 
+This section presents various visualizations to gain insights into the data:
+
+### Churn Rate
+
+![Churn Rate](images/churn_rate.png)
+
+This bar chart illustrates the overall churn rate, showing the proportion of customers who have churned compared to those who have not.
+
+### Churn by Tenure
+
+![Churn by Tenure](images/box_plot-churn_by_tenure.png)
+
+This box plot visualizes the distribution of customer tenure for both churned and retained customers. It helps identify potential trends in churn based on how long customers have been with the company.
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+This heatmap displays the correlations between different numerical features in the dataset. It highlights potential relationships between variables that might influence churn.
+
+### Churn by Internet Service Type
+
+![Churn by Internet Service Type](images/churn_by_internet_service_type.png)
+
+This stacked bar chart shows the churn rates for different internet service types. It helps identify which internet services are more prone to churn.
+
+### Churn by Internet Service
+
+![Churn by Internet Service](images/churn_by_internet_service.png)
+
+This bar chart further explores the relationship between churn and internet service types, potentially highlighting specific services with higher churn rates.
+
+### Churn Distribution w.r.t Gender
+
+![Churn Distribution w.r.t Gender](images/churn_distribution_wrt_gender.png)
+
+This pie chart or bar chart visualizes the churn distribution with respect to gender. It helps understand if there are any gender-based patterns in churn.
+
+### Churn vs Tenure
+
+![Churn vs Tenure](images/churn_vs_tenure.png)
+
+This line plot or scatter plot shows the relationship between churn and customer tenure. It helps visualize how churn rates change over time as customers stay longer with the company.
+
+
+### Monthly Charges Distribution by Churn
+
+![Monthly Charges Distribution by Churn](images/monthly_charges_distribution_by_churn.png)
+
+This histogram or density plot shows the distribution of monthly charges for both churned and retained customers. It helps identify potential patterns in churn based on monthly charges.
 3. **Feature Engineering**:
    - Converting data types.
    - Scaling numerical features using standardization or normalization.
