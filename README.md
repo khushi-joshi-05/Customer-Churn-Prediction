@@ -115,10 +115,8 @@ The project demonstrates the application of various machine learning models for 
 
 ## Future Work
 
-- Explore more advanced feature engineering techniques.
+- Will be exploring more advanced feature engineering techniques.
 - Experiment with other classification models like Support Vector Machines or Naive Bayes.
-- Fine-tune hyperparameters using techniques like GridSearchCV or RandomizedSearchCV.
-- Deploy the model for real-time churn prediction.
 
 ## Usage
 
